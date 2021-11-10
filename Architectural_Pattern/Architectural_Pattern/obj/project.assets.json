@@ -454,19 +454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\19521\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KTPM\\RowDataGateway\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
       "projectName": "Architectural_Pattern",
-      "projectPath": "D:\\KTPM\\RowDataGateway\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
-      "packagesPath": "C:\\Users\\19521\\.nuget\\packages\\",
-      "outputPath": "D:\\KTPM\\RowDataGateway\\Architectural_Pattern\\Architectural_Pattern\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\19521\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -512,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
