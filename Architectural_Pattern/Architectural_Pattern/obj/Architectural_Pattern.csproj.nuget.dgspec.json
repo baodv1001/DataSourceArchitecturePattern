@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj": {}
+    "D:\\DataSourceArchitecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj": {
+    "D:\\DataSourceArchitecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
+        "projectUniqueName": "D:\\DataSourceArchitecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
         "projectName": "Architectural_Pattern",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\architecturePattern\\Architectural_Pattern\\Architectural_Pattern\\obj\\",
+        "projectPath": "D:\\DataSourceArchitecturePattern\\Architectural_Pattern\\Architectural_Pattern\\Architectural_Pattern.csproj",
+        "packagesPath": "C:\\Users\\phann\\.nuget\\packages\\",
+        "outputPath": "D:\\DataSourceArchitecturePattern\\Architectural_Pattern\\Architectural_Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phann\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
